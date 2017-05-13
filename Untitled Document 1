@@ -1,0 +1,5 @@
+<html>
+<form action="create.php">
+<input type="submit" value="create" name="create">
+</form>
+</html>
